@@ -1,23 +1,23 @@
-ASP.NET Core 2.1 ve EF Core ile MVC Code First Örnek Proje
+ASP.NET Core 2.1 ve EF Core ile MVC Code First Ã–rnek Proje
 
-Proje Hakkında
-		Veri tabanı olarak MSSQL kullanıldı.
-		İlişkisel veri tabanı diyagramı oluşturuldu.
-		SQL işlemlerinde Entity Framework Core ORM aracı kullanıldı.
-		Bootstrap responsive bir tasarım ile Product ve Category sayfaları oluşturuldu.
-		ASP.NET Core 2.1 ve EF Core MVC CodeFirst kullanarak geliştirme yapıldı.
-		Proje Katmanlı Mimari ile Yapıldı
+Proje HakkÄ±nda
+		Veri tabanÄ± olarak MSSQL kullanÄ±ldÄ±.
+		Ä°liÅŸkisel veri tabanÄ± diyagramÄ± oluÅŸturuldu.
+		SQL iÅŸlemlerinde Entity Framework Core ORM aracÄ± kullanÄ±ldÄ±.
+		Bootstrap responsive bir tasarÄ±m ile Product ve Category sayfalarÄ± oluÅŸturuldu.
+		ASP.NET Core 2.1 ve EF Core MVC CodeFirst kullanarak geliÅŸtirme yapÄ±ldÄ±.
+		Proje KatmanlÄ± Mimari ile YapÄ±ldÄ±
 
-Kullanılan Teknoloji & Mimari
-		Katmanlı Mimari
+KullanÄ±lan Teknoloji & Mimari
+		KatmanlÄ± Mimari
 		ASP.NET Core 2.1 ve EF Core MVC CodeFirst
 		Entity Framwork Core
 		.NET Core 2.1
 		MS SQL
 		Bootstrap Css Framework 4.3.1
 
-Proje Katmanları
-	AspDotNetCoreMvcProject (Solution)
-			AspDotNetCoreMvcProject.DataAccess (Veri Erişim Katmanı)
-			AspDotNetCoreMvcProject.Entities (Databasedeki Tablolar (Varlıklar))
+Proje KatmanlarÄ±
+	       AspDotNetCoreMvcProject (Solution)
+			AspDotNetCoreMvcProject.DataAccess (Veri EriÅŸim KatmanÄ±)
+			AspDotNetCoreMvcProject.Entities (Databasedeki Tablolar (VarlÄ±klar))
 			AspDotNetCoreMvcProject.MvcWebUI (Web Sitesi)
